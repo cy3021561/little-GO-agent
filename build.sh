@@ -34,7 +34,7 @@ fi
 echo ""
 
 prefix="./"
-ta_agent=("my_player31") # 1 TA players
+ta_agent=("random_player") # 1 TA players
 surfix=".py"
 
 # play funcion
